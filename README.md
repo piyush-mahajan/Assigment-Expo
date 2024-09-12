@@ -18,6 +18,7 @@ This Health Dashboard App is a mobile-responsive application built using **React
 - **React Navigation**: For handling in-app navigation and the sidebar functionality.
 - **Icons Libraries**: Feather and MaterialCommunityIcons for displaying health-related icons.
 
+
 ## Installation
 Follow these steps to set up the project locally:
 
@@ -36,3 +37,17 @@ To run the app on your mobile device or emulator:
 4. Test on mobile
 Open Expo Go on your mobile device.
 Scan the QR code displayed in the terminal to load the app.
+
+## ScreenShots 
+![Screenshot_2024-09-10-20-03-30-19_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/2fecf1b9-ac32-4c1a-8a2e-c3ae20ce03e8)
+![Screenshot_2024-09-10-20-03-34-88_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/e159487d-6f8d-4ad0-860f-e85063886714)
+![Screenshot_2024-09-10-20-03-34-88_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/099b402d-6abc-4ccd-aa89-51a5362bbf8e)
+![Screenshot_2024-09-10-20-03-21-97_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/83b1bed3-17e2-4ae3-acd5-0ee7bd9194a3)
+![Screenshot_2024-09-10-20-03-14-25_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/badf140b-b20a-4055-b6e8-fd979a09ff63)
+![Screenshot_2024-09-10-20-03-17-91_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/da3da096-0082-466b-9b71-800eb2fdcd30)
+
+
+
+
+
+
